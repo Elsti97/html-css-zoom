@@ -67,7 +67,7 @@ footer{
 }
 
 .margin-left-right > *{
-  margin: 0 10px;
+  margin: 0 0.8rem;
 }
 
 .margin-left-right > i{
@@ -92,6 +92,6 @@ footer{
 }
 
 .text-align i{
-  margin-bottom: 10px;
+  margin-bottom: 1rem;
   transform: scale(1.7);
 }
